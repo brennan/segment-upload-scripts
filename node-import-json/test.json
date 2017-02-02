@@ -1,0 +1,22 @@
+[
+{
+  "timestamp": "2017-01-19T21:47:30.483Z",
+  "traits": {
+    "company": "segment",
+    "email": "andy@segment.io",
+    "favorite_band": "nirvana"
+  },
+  "type": "identify",
+  "userId": "a3810"
+},
+{
+  "timestamp": "2017-01-19T21:25:53.170Z",
+  "traits": {
+    "company": "segment",
+    "email": "andy@segment.io",
+    "favorite_band": "nirvana"
+  },
+  "type": "identify",
+  "userId": "a3810"
+}
+]
