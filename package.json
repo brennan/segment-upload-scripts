@@ -2,7 +2,7 @@
   "name": "segment-upload-scripts",
   "version": "1.0.0",
   "description": "Upload events to Segment from a CSV or a JSON file.",
-  "main": "echo \"Info: upload events with either the 'upload csv' or 'upload json' commands\" && exit 1",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "upload:csv": "node csv.js",
